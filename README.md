@@ -3,6 +3,7 @@
 JavaScript bundle for vim, this bundle provides syntax highlighting and
 improved indentation.
 
+Minor change added to test git features.
 
 ## Installation
 
